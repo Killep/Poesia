@@ -1,0 +1,86 @@
+body {
+  color: #333;
+}
+header {
+  height: 64px;
+  background-color: #8bc34a;
+}
+.logo {
+  padding: 14px;
+  width: 240px;
+}
+nav ul {
+  float: right;
+  margin-right: 20px;
+  padding: 10px;
+}
+nav ul li {
+  display: inline-block;
+  text-transform: uppercase;
+}
+nav ul li a {
+  padding: 10px;
+  color: white;
+  text-decoration: none;
+}
+.splash {
+  width: 100%;
+  height: 100vh;
+  background: url(./imagenes/GabrielaMistral.jpeg) fixed;
+  background-size: contain;
+}
+.splash h1 {
+  background: black;
+  color: white;
+  display: inline-block;
+  padding: 10px;
+  font-size: 30px;
+}
+.texto {
+  margin-top: 40vh;
+}
+.splash .btn {
+  background: #8bc34a;
+}
+.centrado {
+  text-align: center;
+}
+.espacios {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.row .col-md-3 {
+  margin-top: 40px;
+}
+.content {
+  padding: 10px;
+  font-size: 14px;
+  text-align: justify;
+}
+.card .btn {
+  float: right;
+  background: #8bc34a;
+}
+#letras {
+  background: #f2f2f2;
+}
+i {
+  color: #8bc34a;
+}
+
+.pintadito {
+  background: grey;
+  padding: 4px;
+  font-size: 20px;
+  color: white;
+}
+.frases i {
+  font-size: 70px;
+}
+.frases h2 {
+  padding: 6px;
+}
+.btn {
+  color: white;
+  background: #8bc34a;
+}
